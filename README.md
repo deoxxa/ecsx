@@ -16,6 +16,11 @@ iterate through any available ECS clusters, printing some information about
 each service, its containers, their configurations, and any load balancers
 connected.
 
+Installation
+------------
+
+`go get -u fknsrs.biz/p/ecsx`
+
 Usage
 -----
 
