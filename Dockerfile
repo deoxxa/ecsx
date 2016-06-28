@@ -9,4 +9,4 @@ ADD *.go ./
 
 RUN go install
 
-CMD ecsx
+ENTRYPOINT /go/bin/ecsx
